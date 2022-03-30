@@ -1,6 +1,8 @@
 # Ejercicios básicos MS-DOS
 ## · Ejercicio 1:
+~~~
 1.![alt text](https://github.com/carlosblancoj/Ejercicio2_Sistemas/blob/main/msdos_1.PNG)
+~~~
 2.     cd .\APLI\EXCEL\TABLAS
 3.     cd \
 4.     tree .\PROG
