@@ -1,8 +1,8 @@
 # Ejercicios básicos MS-DOS
 ## · Ejercicio 1:
-~~~
-1.![alt text](https://github.com/carlosblancoj/Ejercicio2_Sistemas/blob/main/msdos_1.PNG)
-~~~
+1.
+![alt text](https://github.com/carlosblancoj/Ejercicio2_Sistemas/blob/main/msdos_1.PNG)
+
 2.     cd .\APLI\EXCEL\TABLAS
 3.     cd \
 4.     tree .\PROG
@@ -29,10 +29,12 @@
 6.     ren EJER.TXT FICHERO.TXT
 7.     move FICHERO.TXT ..\PROG\BASIC
 8.     edit ..\VARIOS\AGENDA EJER.txt && move NUEVO.TXT ..\PROG\BASIC
-9.     
+9.     3 y 1, respectivamente
 ## · Ejercicio 3
 1.     rd .\APLI\ACCESS && md .\APLI\ASTRO
-2.     
+2.
+![alt_text](https://github.com/carlosblancoj/Ejercicio2_Sistemas/blob/main/msdos_2.PNG)
+
 3.     cd .\APLI\ASTRO\CIENCIA && tree ..\HISTORIA
 4.     edit .\HISTORIA\DATOS1 TYCHO.TXT
 5.     edit .\HISTORIA\DATOS2 KEPLER.TXT
@@ -50,4 +52,3 @@
 6.     rd .\TECINFO
 7.     copy .\APLI\HARD.TXT .\VARIOS && copy .\APLI\SOFT.TXT .\VARIOS
        xcopy -d .\APLI .\VARIOS
- 8. 	   
